@@ -326,3 +326,11 @@ body[theme="premiumdark"] > .navbar > .navitems {
 body[theme="premiumdark"] > .navbar > .navitems > .navlogo {
   left: 13px;
 }
+
+body[theme="cookie"] {
+  --background: #6d4012;
+  --theme: #eaa564;
+  --theme-hover: #bf7226;
+  --text: #590c0c;
+  --text-secondary: #000000;
+}
